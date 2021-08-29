@@ -1,12 +1,12 @@
-## Alexis A. Gómez Gutiérrez
+# Alexis A. Gómez Gutiérrez
 
-### Physics and Data Analysis
+## Physics and Data Analysis
 
 #### I´m a physics student at the UANL in México. I love math and physics, specialky for the way it can work as language to try to understand the world.
 
 #### At the moment i am developing my skills in Data Analysis, Data Science, Data enginering. Also I am working in my final degree project at college, "Determine the length of a polymer based on its stiffness".
 
-## More about me (Personal)
+### More about me (Personal)
 
 #### I have a partial job as "visual media editor" for Content Creator his social medias so I know how to work with Content exposure, I use Adobe Premiere.
 
