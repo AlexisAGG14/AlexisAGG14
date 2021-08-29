@@ -8,7 +8,7 @@
 
 ### More about me (Personal)
 
-#### I have a partial job as "visual media editor" for Content Creator his social medias so I know how to work with Content exposure, I use Adobe Premiere.
+#### I have a partial job as "visual media editor" for  a Content Creator his social medias so I know how to work with Content exposure, I use Adobe Premiere.
 
 #### I worked for 4 years as waiter at a seafood restaurant, so I have some experience with seafood, and so much experience in customer support
 
