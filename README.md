@@ -8,7 +8,19 @@
 
 #### I have experience as Experimental Physicist in the laboratory, working in experimental results with Statistics, Linear regression, Linear interpolation, Error and Uncertainity. 
 
-### More about me (Personal)
+
+### Specific Skills
+
+#### * Data visualization
+#### * Data Analysis
+#### * Regression Analysis
+
+### Examples of WorkCHUPETE
+
+#### TITLE.
+<img src='https://github.com/AlexisAGG14/ImágenPrueba.png' width='256' />
+
+## More about me (Personal)
 
 ##### I have a partial job as "visual media editor" for  a Content Creator his social medias so I know how to work with Content exposure, I use Adobe Premiere.
 
