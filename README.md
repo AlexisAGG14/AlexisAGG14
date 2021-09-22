@@ -20,7 +20,7 @@
 <img src='https://github.com/AlexisAGG14/AlexisAGG14/blob/master/Im%C3%A1genPrueba.png' width='350' />
 
 ##### Temperature and CO2 across the year per country
-<img src="https://github.com/AlexisAGG14/Personal-Projects/blob/main/Temperature-Changes/IncreaseofTandCO2perCountry.png">
+<img src="https://github.com/AlexisAGG14/Personal-Projects/blob/main/Temperature-Changes/IncreaseofTandCO2perCountry.png" width=350 />
 
 ## More about me (Personal)
 
