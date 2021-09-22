@@ -15,10 +15,10 @@
 #### * Data Analysis
 #### * Regression Analysis
 
-### Examples of WorkCHUPETE
+### Examples of Work
 
 #### TITLE.
-<img src='https://github.com/AlexisAGG14/ImágenPrueba.png' width='256' />
+<img src='https://github.com/AlexisAGG14/AlexisAGG14/blob/master/Im%C3%A1genPrueba.png' width='256' />
 
 ## More about me (Personal)
 
