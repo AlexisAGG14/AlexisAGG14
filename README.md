@@ -14,7 +14,7 @@
 #### * Data visualization
 #### * Data Analysis
 
-### Examples of Work
+### Examples of Data Visualization
 
 ##### Evolution of CO2 Concentration with respect to time and temperature in Mexico 
 <img src='https://github.com/AlexisAGG14/AlexisAGG14/blob/master/Im%C3%A1genPrueba.png' width='280' />
