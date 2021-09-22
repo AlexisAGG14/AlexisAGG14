@@ -19,7 +19,7 @@
 ##### Evolution of CO2 Concentration with respect to time and temperature in Mexico 
 <img src='https://github.com/AlexisAGG14/AlexisAGG14/blob/master/Im%C3%A1genPrueba.png' width='280' />
 
-##### Temperature and CO2 across the year per country
+##### Temperature and CO2 across the years per country
 <img src="https://github.com/AlexisAGG14/Personal-Projects/blob/main/Temperature-Changes/IncreaseofTandCO2perCountry.png" width=280 />
 
 ## More about me (Personal)
