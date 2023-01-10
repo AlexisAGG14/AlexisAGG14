@@ -16,6 +16,7 @@
 #### * Data visualization
 #### * Data Analysis
 #### * Experience with query languages
+#### * Scripting Programming
 
 ### Examples of Data Visualization
 
