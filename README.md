@@ -2,17 +2,20 @@
 
 ## Physics and Data Analysis
 
-#### I´m a physics student at the UANL in México. I love math and physics, specialky for the way it can work as language to try to understand the world.
+#### I´m a physicst from the UANL in México. I love math and physics, specially for the way it can work as language to try to understand the world.
 
-#### At the moment i am developing my skills in Data Analysis, Data Science, Data enginering on python. Also I am working in my final degree project at college, "Determine the length of a polymer based on its stiffness".
+#### I work developing code in a private company doing software engineering mixing Data Analytics, Science and Engineering
 
-#### I have experience as Experimental Physicist in the laboratory, working in experimental results with Statistics, Linear regression, Linear interpolation, Error and Uncertainity. 
+#### At the moment I am developing my skills in Data Analysis, Data Science, Data enginering on python.
+
+#### I have experience as Experimental Physicist in the laboratory, working in experimental results with Statistics, Linear regression, Linear interpolation, Error and Uncertainity.
 
 
 ### Specific Skills
 
 #### * Data visualization
 #### * Data Analysis
+#### * Experience with query languages
 
 ### Examples of Data Visualization
 
@@ -28,4 +31,4 @@
 
 ##### In summer of 2018 I was selected by "Clubes de Ciencia México" to participate at "Fuel production: From conventional to renewable" science club. 
 
-##### I have 2 main professional goals, first one is to help science to grow in my country, México, and second one, I want to help to reverse climate change.
+##### I have 2 main professional goals, first one is to help science to grow in my country, México, and second one, have my own restaurant
